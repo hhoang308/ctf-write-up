@@ -1,4 +1,4 @@
-# Reverse Engineering Challenge: `fd`
+# CTF Challenge: `fd`
 
 ## Challenge Description
 

@@ -1,4 +1,4 @@
-# Reverse Engineering Challenge: `collision`
+# CTF Challenge: `collision`
 
 ## Challenge Description
 
