@@ -95,7 +95,7 @@ Mama! Now_I_understand_what_file_descriptors_are!
 
 ## Result
 
-![result](images/fd.png)
+![result](/pwnable.kr/Toddler's%20Bottle/images/fd.png)
 
 ## Related Concepts
 
